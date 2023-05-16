@@ -146,7 +146,7 @@ section {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #2d6760;
+/*   background: #2d6760; */
 }
 #header.header-scrolled {
   background: #1d443f;
