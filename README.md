@@ -1,6 +1,6 @@
 # Becka Musica - Musician and Violinist
 
-Welcome to Becka Musica's GitHub repository! This repository hosts the website for Becka Musica, a talented musician and violinist. The website can be accessed at [https://beckamusica.uk/](https://beckamusica.uk/).
+Welcome to Becka Musica's GitHub repository! This repository hosts the website for Becka Musica, a talented musician and violinist. The website can be accessed at [https://becka-musica.com/](https://becka-musica.com/).
 
 ## About Becka Musica
 
