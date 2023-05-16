@@ -18,10 +18,3 @@ Contributing
 If you have suggestions, improvements, or issues to report regarding the website, please feel free to contribute by opening an issue in this repository. Your feedback is valuable and will help us enhance the user experience.
 
 If you would like to make changes to the website directly, please fork this repository, make your modifications, and submit a pull request. We appreciate your contributions to help make Becka Musica's website even better.
-
-Contact
-To get in touch with Becka Musica or for any inquiries, please reach out through the following channels:
-
-Email: contact@beckamusica.uk
-Social Media: Instagram | Twitter | Facebook
-Thank you for visiting Becka Musica's GitHub repository. Enjoy exploring the website and experiencing the enchanting world of music created by Becka Musica!
