@@ -3,7 +3,7 @@ Becka Musica - Musician and Violinist
 Welcome to Becka Musica's GitHub repository! This repository hosts the website for Becka Musica, a talented musician and violinist. The website can be accessed at https://beckamusica.uk/.
 
 About Becka Musica
-Becka Musica is a passionate musician who specializes in playing the violin. With years of experience and a deep love for music, Becka brings soulful melodies and captivating performances to audiences around the world. Her dedication and skill have earned her recognition in the music industry.
+Becka Musica is a passionate musician who specialises in playing the violin. With years of experience and a deep love for music, Becka brings soulful melodies and captivating performances to audiences around the world. Her dedication and skill have earned her recognition in the music industry.
 
 Website Overview
 The website showcases Becka Musica's talent and provides a platform for her fans and music enthusiasts to explore her work. Here's an overview of the website's sections:
